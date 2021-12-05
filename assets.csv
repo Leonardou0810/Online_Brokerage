@@ -1,0 +1,8 @@
+name,quantity,price,classification
+SPY,50000,450,etf
+FB,10000,200,stock
+AAPL,20000,300,stock
+AMZN,25000,500,stock
+TSLA,50000,1000,stock
+PLTR,5000,50,stock
+GME,30000,3000,stock
